@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+.center{
+    text-align: center;
+    vertical-align: middle;
+    margin: 250px;
+}
+.mau1{
+    color: #0057e7;
+}
+.mau2{
+    color: 	#d62d20;
+}
+.mau3{
+    color: #ffa700;
+}
+.mau4{
+    color: 	#008744;
+}
+.input-form{
+    width: 300px;
+    height: 20px;
+}
+.button{
+    width: 100px;
+    height: 25px;
+}
+a{
+    text-decoration: none;
+}
